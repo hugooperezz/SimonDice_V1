@@ -16,7 +16,7 @@ public class engine {
 	tColores[] secuenciaColores = new tColores[MAX_COLORES_SEQ];
 
 	/**
-	 * Metodo para relacionar los colores con 
+	 * Metodo para relacionar los colores con
 	 * @param _color
 	 * @return
 	 */
@@ -85,6 +85,7 @@ public class engine {
 
 	/**
 	 * Metodo para mostrar el array
+	 * 
 	 * @param _numero
 	 */
 	void mostrarSecuencia(int _numero) {
